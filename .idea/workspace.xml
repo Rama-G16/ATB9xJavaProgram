@@ -5,29 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fc2f069-2c00-4a0e-9c89-3185f41042b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATB9xJavaProgram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/Task/task_03102024/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/Task/task_03102024/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/Task/task_03102024/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/Task/task_04102024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_03102024/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Main_Method/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Main_Method/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Main_Method/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Main_Method/Lab006_any_argument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Main_Method/Lab007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Main_Method/Lab008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Main_Method/Lab009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab011.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
