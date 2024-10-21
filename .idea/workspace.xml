@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fc2f069-2c00-4a0e-9c89-3185f41042b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATB9xJavaProgram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Task/task_03102024/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Task/task_03102024/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Task/task_03102024/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Task/task_04102024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_03102024/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Main_Method/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Main_Method/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Main_Method/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Main_Method/Lab006_any_argument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Main_Method/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Main_Method/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024_Main_Method/Lab009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab010.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Rama-G16&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Rama-G16/ATB9xJavaProgram.git&quot;,
+    &quot;accountId&quot;: &quot;d4b7cd4a-3202-4764-a21a-2a4dd4ed9f83&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2na6ahSFSvVaG2Ya20N1q7tMOpW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lab001.executor": "Run",
+    "Application.Lab002.executor": "Run",
+    "Application.Lab007.executor": "Run",
+    "Application.Lab008.executor": "Run",
+    "Application.Lab009.executor": "Run",
+    "Application.Lab010.executor": "Run",
+    "Application.task_03102024.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/rama/IdeaProjects/ATB9xJavaProgram/src/Main.java",
+    "settings.editor.selected.configurable": "configurable.group.editor"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Lab010">
+    <configuration name="Lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_03102024.Lab002" />
+      <module name="ATB9xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_03102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_04102024_Main_Method.Lab007" />
+      <module name="ATB9xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_04102024_Main_Method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_04102024_Main_Method.Lab008" />
+      <module name="ATB9xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_04102024_Main_Method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_04102024_Main_Method.Lab009" />
+      <module name="ATB9xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_04102024_Main_Method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_08102024.Lab010" />
+      <module name="ATB9xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_08102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab010" />
+        <item itemvalue="Application.Lab008" />
+        <item itemvalue="Application.Lab009" />
+        <item itemvalue="Application.Lab007" />
+        <item itemvalue="Application.Lab002" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fc2f069-2c00-4a0e-9c89-3185f41042b5" name="Changes" comment="" />
+      <created>1729198904743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729198904743</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
