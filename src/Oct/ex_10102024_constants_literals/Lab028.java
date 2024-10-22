@@ -1,4 +1,4 @@
-package Oct.ex_10102024;
+package Oct.ex_10102024_constants_literals;
 
 public class Lab028 {
     public static void main(String[] args) {
