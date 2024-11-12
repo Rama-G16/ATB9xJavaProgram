@@ -4,17 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fc2f069-2c00-4a0e-9c89-3185f41042b5" name="Changes" comment="today's work 22oct24">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_whileloop/Lab102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_whileloop/Lab103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_whileloop/Lab104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_whileloop/Lab105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_whileloop/Lab106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_whileloop/Lab107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_whileloop/Lab108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_whileloop/Lab109.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_whileloop/Lab110.java" afterDir="false" />
+    <list default="true" id="1fc2f069-2c00-4a0e-9c89-3185f41042b5" name="Changes" comment="today's work 23oct24">
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPs/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPs/Lab139_OOPs_Object_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPs/Lab140_OOPs_Object_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPs/Lab141_OOPs_Object_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPs/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_OOPs/StudentsATB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_OOPs_constructor/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_OOPs_constructor/Lab142_constructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_OOPs_constructor/Lab143_constructers_p3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_OOPs_constructor/Lab143_constructors_p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Task/task_22102024/taks_22102024_t2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/Task/task_22102024/task_22102024_t1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_functions/Lab111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_functions/Lab112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_functions/Lab113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_functions/Lab114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_functions/Lab115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_functions/Lab116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_24102024/Lab117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_24102024/Lab118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_strings/Lab119_length_of_the_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_strings/Lab120_string_created.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_strings/Lab121_string_immutable_example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_strings/Lab122_String_equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_strings/Lab123_string_equal_Part2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_strings/Lab123_1string_substrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_strings/Lab123_2string_concat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_strings/Lab123_3string_delimiter_split.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_strings/Lab123_4string_charat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_strings/Lab123_5string_trim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_strings/Lab123_6string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_strings/Lab123_7string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_strings/Lab124_string_buffer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/Task/task_04102024.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,9 +137,37 @@
     "Application.Lab108.executor": "Run",
     "Application.Lab109.executor": "Debug",
     "Application.Lab110.executor": "Run",
+    "Application.Lab111.executor": "Run",
+    "Application.Lab112.executor": "Run",
+    "Application.Lab113.executor": "Run",
+    "Application.Lab114.executor": "Run",
+    "Application.Lab116.executor": "Run",
+    "Application.Lab117.executor": "Run",
+    "Application.Lab118.executor": "Run",
+    "Application.Lab119.executor": "Run",
+    "Application.Lab120.executor": "Run",
+    "Application.Lab120_string_created.executor": "Run",
+    "Application.Lab121.executor": "Run",
+    "Application.Lab121_string_immutable_example.executor": "Run",
+    "Application.Lab121_upper_case.executor": "Run",
+    "Application.Lab123_1string_substrint.executor": "Run",
+    "Application.Lab123_2string_concat.executor": "Run",
+    "Application.Lab123_3string_delimiter_split.executor": "Run",
+    "Application.Lab123_4string_charat.executor": "Run",
+    "Application.Lab123_5string_trim.executor": "Run",
+    "Application.Lab123_6string.executor": "Run",
+    "Application.Lab123_7string.executor": "Run",
+    "Application.Lab123_string_equal_Part2.executor": "Run",
+    "Application.Lab123_string_function.executor": "Run",
+    "Application.Lab124_string_buffer.executor": "Run",
+    "Application.Lab139_OOPs_Object_class.executor": "Run",
+    "Application.Lab142_constructors.executor": "Run",
+    "Application.Lab143_constructers_p3.executor": "Run",
+    "Application.Lab143_constructors_p2.executor": "Run",
     "Application.Rama.executor": "Run",
     "Application._.executor": "Run",
     "Application.task_03102024.executor": "Run",
+    "Application.task_22102024_t1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -123,13 +176,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab110">
-    <configuration name="Lab106" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_22102024_whileloop.Lab106" />
+  <component name="RunManager" selected="Application.Lab143_constructers_p3">
+    <configuration name="Lab124_string_buffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_28102024_strings.Lab124_string_buffer" />
       <module name="ATB9xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_22102024_whileloop.*" />
+          <option name="PATTERN" value="Oct.ex_28102024_strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,13 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab107" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_22102024_whileloop.Lab107" />
+    <configuration name="Lab139_OOPs_Object_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_05112024_OOPs.Lab139_OOPs_Object_class" />
       <module name="ATB9xJavaProgram" />
-      <option name="PROGRAM_PARAMETERS" value="4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_22102024_whileloop.*" />
+          <option name="PATTERN" value="Nov.ex_05112024_OOPs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_22102024_whileloop.Lab108" />
+    <configuration name="Lab142_constructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_06112024_OOPs_constructor.Lab142_constructors" />
       <module name="ATB9xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_22102024_whileloop.*" />
+          <option name="PATTERN" value="Nov.ex_06112024_OOPs_constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab109" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_22102024_whileloop.Lab109" />
+    <configuration name="Lab143_constructers_p3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_06112024_OOPs_constructor.Lab143_constructers_p3" />
       <module name="ATB9xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_22102024_whileloop.*" />
+          <option name="PATTERN" value="Nov.ex_06112024_OOPs_constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_22102024_whileloop.Lab110" />
+    <configuration name="Lab143_constructors_p2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_06112024_OOPs_constructor.Lab143_constructors_p2" />
       <module name="ATB9xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_22102024_whileloop.*" />
+          <option name="PATTERN" value="Nov.ex_06112024_OOPs_constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,19 +243,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab110" />
-      <item itemvalue="Application.Lab106" />
-      <item itemvalue="Application.Lab107" />
-      <item itemvalue="Application.Lab108" />
-      <item itemvalue="Application.Lab109" />
+      <item itemvalue="Application.Lab143_constructers_p3" />
+      <item itemvalue="Application.Lab139_OOPs_Object_class" />
+      <item itemvalue="Application.Lab142_constructors" />
+      <item itemvalue="Application.Lab143_constructors_p2" />
+      <item itemvalue="Application.Lab124_string_buffer" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab110" />
-        <item itemvalue="Application.Lab109" />
-        <item itemvalue="Application.Lab107" />
-        <item itemvalue="Application.Lab108" />
-        <item itemvalue="Application.Lab106" />
+        <item itemvalue="Application.Lab143_constructers_p3" />
+        <item itemvalue="Application.Lab143_constructors_p2" />
+        <item itemvalue="Application.Lab142_constructors" />
+        <item itemvalue="Application.Lab139_OOPs_Object_class" />
+        <item itemvalue="Application.Lab124_string_buffer" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729601762179</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="today's work 23oct24">
+      <option name="closed" value="true" />
+      <created>1729640433391</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729640433391</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,7 +344,8 @@
     <MESSAGE value="Lab014 and 15" />
     <MESSAGE value="today's work" />
     <MESSAGE value="today's work 22oct24" />
-    <option name="LAST_COMMIT_MESSAGE" value="today's work 22oct24" />
+    <MESSAGE value="today's work 23oct24" />
+    <option name="LAST_COMMIT_MESSAGE" value="today's work 23oct24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -298,6 +359,11 @@
           <url>file://$PROJECT_DIR$/src/Oct/ex_22102024_whileloop/Lab109.java</url>
           <line>8</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_25102024_strings/Lab119_length_of_the_string.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
